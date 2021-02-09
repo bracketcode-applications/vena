@@ -25,5 +25,6 @@ Footnotes:
 - The images used in the demo are included in the folder labeled "sample assets". Feel free to modify or use these images in your own project.
 
 =======================
+## Report Issues or Suggest Updates
 
 [![Report Bug](https://img.www-source.net/github-global/found-bug-banner.jpg)](https://github.com/techmanager/vena/issues/new)
