@@ -1,6 +1,6 @@
 # vena
 
-[![Email Preview](https://img.www-source.net/vena/git-preview.jpg)](https://apps.www-source.net/samples/vena/)
+[![Email Preview](https://img.www-source.net/vena/github-preview.jpg)](https://apps.www-source.net/samples/vena/)
 
 ## About
 Vena is a concept for a html email intended to be used as an informative newsletter by a consumer-facing health website focusing on the topic of varicose veins and its treatment. 
