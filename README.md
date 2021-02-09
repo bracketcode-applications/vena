@@ -23,3 +23,7 @@ All additional customizations were done by [Albert Nera](https://www.technicalma
 Footnotes:
 - Images need to be hosted by you or uploaded to the digital asset manager (DAM) of the email platform you wish to use. Once uploaded, you will use the direct url to hosted assets as src urls in the email code.
 - The images used in the demo are included in the folder labeled "sample assets". Feel free to modify or use these images in your own project.
+
+=======================
+
+[![Report Bug](https://img.www-source.net/github-global/found-bug-banner.jpg)](https://github.com/techmanager/vena/issues/new)
