@@ -27,4 +27,6 @@ Footnotes:
 =======================
 ## Report Issues
 
-Found a bug? Please [click here](https://github.com/techmanager/vena/issues/new) to report a new issue. Thanks for your contribution. :)
+Found a bug? Please [click here](https://github.com/techmanager/vena/issues/new) to report a new issue. 
+
+Thanks for your contribution!
