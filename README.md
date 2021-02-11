@@ -3,7 +3,7 @@
 [![Email Preview](https://img.www-source.net/vena/github-preview.jpg)](https://apps.www-source.net/samples/vena/)
 
 ## About
-Vena is a concept for a html email intended to be used as an informative newsletter by a consumer-facing health website focusing on the topic of varicose veins and its treatment. 
+Inspired by past professional projects done by the creator, Vena is a concept for an html email intended to be used as an informative newsletter focusing on the topic of varicose veins and its treatment. Of course, the general design and structure can be adopted for non-health industry use and any organization by manipulating design elements such as colors, logo and images.
 
 The code for this template is based on the Cerberus Responsive email code. To learn more about the Cerbrus templates visit the project's website.
 **[Visit Cerbrus Website](http://tedgoas.github.io/Cerberus/)**
