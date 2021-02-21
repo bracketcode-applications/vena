@@ -18,6 +18,10 @@ All additional customizations were done by [Albert Nera](https://www.technicalma
 4. Once code has been modified to your liking, you can select all code and copy-paste it to the HTML email editor of the email platform (ex: mailchimp, marketingcloud) you are using.
 5. Save changes and if possible, send yourself a test email to verify it renders correctly accross email clients and is fully responsive.
 
+If you dont happen to have the ability to send a test email using an emailing platform (ie: Mailchimp, Sendgrid), then take a look at [Litmus Putsmail](https://putsmail.com/tests/new). This free online service allows you to copy-paste your html email code and send it to either a single or multiple recepitient(s). It's a quick and easy way to conduct a test.
+
+**Disclaimer: Litmus Software, Inc. is NOT a sponsor of this project and there is NO professional association or financial incentive behind the promotion of the Litmus Putsmail service. 
+
 =======================
 
 Footnotes:
