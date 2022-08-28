@@ -13,7 +13,7 @@ All additional customizations were done by [Albert Nera](https://www.technicalma
 ## To Use
 
 1. Download and unzip project files.
-2. Open the "vena" html file in a plain text editor or HTML code editor.
+2. Open the index.html file in a plain text editor or HTML code editor.
 3. Modify HTML code to customize colors, fonts and src urls of images* as well as replace placeholder content with your own.
 4. Once code has been modified to your liking, you can select all code and copy-paste it to the HTML email editor of the email platform (ex: mailchimp, marketingcloud) you are using.
 5. Save changes and if possible, send yourself a test email to verify it renders correctly accross email clients and is fully responsive.
