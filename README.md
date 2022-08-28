@@ -1,6 +1,6 @@
 # vena
 
-[![Email Preview](https://img.www-source.net/vena/github-preview.jpg)](https://apps.www-source.net/samples/vena/)
+[![Email Preview](https://img.www-source.net/vena/github-preview.jpg)](https://vena.stagingproject.com/)
 
 ## About
 Inspired by past professional projects, Vena is a concept for an html email intended to be used as an informative newsletter focusing on the topic of varicose veins and its treatment. However, the general design and structure can be adopted for non-health industry use and any organization by manipulating design elements such as colors, logo and images.
